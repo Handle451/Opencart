@@ -1,0 +1,1 @@
+ALTER TABLE `oc_product_description` ADD `alter_name` VARCHAR(255) NOT NULL AFTER `name`;
